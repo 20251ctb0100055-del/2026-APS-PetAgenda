@@ -1,20 +1,11 @@
-# Nome do Sistema: o que ele faz, em uma frase
+# 2026-APS-PetAgenda
 
-> **Antes de tudo.** Este é o modelo do Projeto Integrador de Análise e Projeto de Sistemas. Se você está lendo isto no seu próprio repositório, deu certo. Troque o título acima pelo nome do seu sistema e por uma frase que diga o que ele faz, preencha a autoria e o cliente e apague este aviso.
+**Autor:** João Pedro Mauda  
+**Cliente:** Cláudia (Proprietária de Pet Shop)
 
-Projeto Integrador de Análise e Projeto de Sistemas, 2026.
-IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao Ensino Médio.
+## Apresentação do Projeto
 
-**Autoria:** _seu nome, como aparece no AVA_
-
-**Cliente:** _o papel do cliente e a relação dele com você, no máximo com o primeiro nome. Por exemplo, "Dona Rosa, minha avó, que faz marmita por encomenda"._
-
-## Apresentação do projeto
-
-<!-- Três a cinco frases para quem nunca ouviu falar do seu sistema. Qual é o problema, para quem, e o que o sistema faz a respeito.
-     Escreva depois de terminar a 4.1. É um resumo dela, com as suas palavras. -->
-
-_Escreva aqui a apresentação do projeto._
+O **PetAgenda** é um sistema web desenvolvido para organizar a rotina de banho e tosa em um pet shop de bairro. Atualmente, o controle feito em papel provoca choque de horários e perda de informações sobre restrições dos animais (como alergias ou porte). O sistema centraliza o cadastro dos pets, organiza a agenda diária de atendimentos e permite acompanhar o status do serviço até o pet estar pronto para busca.
 
 ## Documento do projeto
 
