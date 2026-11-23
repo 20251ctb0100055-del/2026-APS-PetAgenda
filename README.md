@@ -48,6 +48,9 @@ A pasta [`exemplo-bibliotech/`](exemplo-bibliotech/) tem as seções do BiblioTe
 
 O exemplo cresce a cada aula no [repositório do modelo](https://github.com/Profe-Berssa-IFPR/2026-APS-modelo/tree/main/exemplo-bibliotech). A cópia que veio para o seu repositório para na seção que existia no dia em que você o criou. Para ver as seções novas, é lá que você olha.
 
+
+
+> **Declaração de uso de IA:** Ferramenta de inteligência artificial foi utilizada como apoio na revisão textual, formatação Markdown e estruturação dos diagramas a partir da análise do domínio PetAgenda.
 ---
 
 **Profe. Berssa** | Dr. João Henrique Berssanette
